@@ -38,3 +38,16 @@ print("Meoott " +str((num1%1000)//100))
 print("Asarott " +str((num1%100)//10))
 
 print("Ahadott " +str(num1%10))
+
+##### input ###
+
+num1=int(input("Enter a number with 4 digits: "))
+
+print("Alafimm " + str(num1//1000))
+
+print("Meoott " +str((num1%1000)//100))
+
+print("Asarott " +str((num1%100)//10))
+
+print("Ahadott " +str(num1%10))
+
