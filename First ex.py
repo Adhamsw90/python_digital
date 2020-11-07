@@ -51,3 +51,8 @@ print("Asarott " +str((num1%100)//10))
 
 print("Ahadott " +str(num1%10))
 
+#######2 LINES !! ######
+
+num1=int(input("Enter a number with 4 digits: "))
+print("Alafimm= " + str(num1//1000) + "\nMeoott= " +str((num1%1000)//100) + "\nAsarott " +str((num1%100)//10) + "\nAhadott " +str(num1%10) )
+
